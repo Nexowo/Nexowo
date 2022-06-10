@@ -1,4 +1,6 @@
-### Jean Maccou's GitHub
+### Jean Maccou
+
+#### Software engeenering & IA student at UTBM (Université de Technologie de Belfort-Montbéliard
 
 <div width="100%">
 <a href="https://github.com/Nexowo?tab=repositories" target="_blank">
