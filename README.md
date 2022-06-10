@@ -1,6 +1,27 @@
 ### Jean Maccou
 
-#### Software engeenering & IA student at UTBM (Université de Technologie de Belfort-Montbéliard
+#### Software engeenering & IA student at <a href="https://www.utbm.fr/">UTBM</a> (Université de Technologie de Belfort-Montbéliard)
+
+##### Mastered languages
+
+<!-- C -->
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+
+<!-- Java -->
+<a href="https://www.java.com/en/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+</a>
+
+<br>
+
+##### Technologies
 
 <div width="100%">
 <a href="https://github.com/Nexowo?tab=repositories" target="_blank">
