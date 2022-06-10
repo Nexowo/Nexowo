@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jean Maccou's GitHub
 
 <div width="100%">
 <a href="https://github.com/Nexowo?tab=repositories" target="_blank">
