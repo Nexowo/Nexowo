@@ -3,8 +3,6 @@
 
 #### Software engeenering & IA student at <a href="https://www.utbm.fr/">UTBM</a> (Université de Technologie de Belfort-Montbéliard)
 
-<a title="red line png - red abstract lines PNG image with transparent background@toppng.com" href="https://toppng.com/free-image/red-line-png-red-abstract-lines-PNG-free-PNG-Images_166799" target="_blank">red line png - red abstract lines PNG image with transparent background@toppng.com</a>
-
 ##### Mastered languages
 
 <!-- C -->
@@ -35,10 +33,6 @@
 <a href="https://ubuntu.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> 
 </a> 
-
-<br>
-
-<a title="red line png - red abstract lines PNG image with transparent background@toppng.com" href="https://toppng.com/free-image/red-line-png-red-abstract-lines-PNG-free-PNG-Images_166799" target="_blank">red line png - red abstract lines PNG image with transparent background@toppng.com</a>
 
 <div width="100%">
 <a href="https://github.com/Nexowo?tab=repositories" target="_blank">
