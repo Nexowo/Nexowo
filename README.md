@@ -3,6 +3,7 @@
 #### Software engeenering & IA student at <a href="https://www.utbm.fr/">UTBM</a> (Université de Technologie de Belfort-Montbéliard)
 
 <img src ="https://github.com/Nexowo/Nexowo/blob/main/Images/toppng.com-red-line-png-red-abstract-lines-997x213.png" alt="separator" width="100%" height="50"/>
+
 ##### Mastered languages
 
 <!-- C -->
