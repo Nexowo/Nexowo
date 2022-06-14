@@ -1,4 +1,3 @@
-<a href="https://github.com/nexowo?tab=repositories" target="_blank"><img align ="right" src="https://komarev.com/ghpvc/?username=nexowo&color=red"/></a>
 ### Jean Maccou
 
 #### Software engeenering & IA student at <a href="https://www.utbm.fr/">UTBM</a> (Université de Technologie de Belfort-Montbéliard)
