@@ -4,7 +4,7 @@
 
 <img src ="https://github.com/Nexowo/Nexowo/blob/main/Images/red-line.svg.hi.png" alt="separator" width="700" height="100"/>
 
-##### Frequently used languages
+##### Languages that I know
 
 <!-- C -->
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
