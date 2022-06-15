@@ -2,7 +2,7 @@
 
 #### Software engeenering & IA student at <a href="https://www.utbm.fr/">UTBM</a> (Université de Technologie de Belfort-Montbéliard)
 
-<img src ="https://github.com/Nexowo/Nexowo/blob/main/Images/toppng.com-red-line-png-red-abstract-lines-997x213.png" alt="separator" width="100%" height="50"/>
+<img src ="https://github.com/Nexowo/Nexowo/blob/main/Images/red-line.svg.hi.png" alt="separator" width="700" height="100"/>
 
 ##### Mastered languages
 
@@ -35,7 +35,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> 
 </a> 
 
-<img src ="https://github.com/Nexowo/Nexowo/blob/main/Images/toppng.com-red-line-png-red-abstract-lines-997x213.png" alt="separator" width="100%" height="50"/>
+<img src ="https://github.com/Nexowo/Nexowo/blob/main/Images/red-line.svg.hi.png" alt="separator" width="700" height="100"/>
 
 <div width="100%">
 <a href="https://github.com/Nexowo?tab=repositories" target="_blank">
