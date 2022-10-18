@@ -1,6 +1,6 @@
 ### Jean Maccou
 
-#### Software engeenering & IA student at <a href="https://www.utbm.fr/">UTBM</a> (Université de Technologie de Belfort-Montbéliard)
+#### Software engeenering & AI student at <a href="https://www.utbm.fr/">UTBM</a> (Université de Technologie de Belfort-Montbéliard)
 
 <div width="100%">
 <a href="https://github.com/Nexowo?tab=repositories" target="_blank">
